@@ -8,4 +8,4 @@ the forecast of the given city for the next 7 days. The forecast command will de
 temperature. There is also a "!help" command to list all available commands within this bot.
 
 In this repository, in the links.py file, you are responsible for creating your own Discord Bot token and WeatherAPI key. You can create your own Discord bot and retrieve your 
-own Discord bot token [here](https://discord.com/developers/docs/intro). To create your own WeatherAPI key, you can sign up to create an account and make your own key [here](https://www.weatherapi.com/)
+own Discord bot token [here](https://discord.com/developers/docs/intro). To create your own WeatherAPI key, you can sign up to create an account and make your own key [here](https://www.weatherapi.com/).
